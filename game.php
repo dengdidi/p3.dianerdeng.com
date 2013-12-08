@@ -58,7 +58,7 @@
 			}
 		</script>
 
-		<noscript>Sorry, your browser does not support JavaScript!</noscript>
+		<noscript> Sorry, your browser does not support JavaScript </noscript>
 	
 </head>
 
@@ -68,7 +68,7 @@
 			<p>Fill out the form carefully to generate a curse with Rumplestilskin's help.</p>
 			<p><small><em>*Only the truest believr can cast the strongest curses!</em></small></p><br>
 
-		<form action="" name = "curse" onsubmit="return validateForm()">
+		<form name = "curse" onsubmit="return validateForm()">
 			<center>
 			<table border="0">
 
